@@ -1,0 +1,26 @@
+{
+  "name": "financeironode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faw123/FinanceiroNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faw123/FinanceiroNode/issues"
+  },
+  "homepage": "https://github.com/Faw123/FinanceiroNode#readme",
+  "dependencies": {
+    "@types/angular": "^1.6.32",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.1"
+  }
+}
